@@ -6,6 +6,8 @@
 
 Goggles are a way to alter the ranking in a search engine. Brave is behind this technology and you should [read more about it](https://github.com/brave/goggles-quickstart). This tool lets you generate Goggles using your favorite subreddit(s). Forces Unseen uses this to generate [netsec-goggle](https://github.com/forcesunseen/netsec-goggle).
 
+You can also read more about this on Forces Unseen's blog: [Make Search Engines Great Again!](https://blog.forcesunseen.com/make-search-engines-great-again)
+
 ## Basic Usage
 
 1. Build the container locally using the following command.
