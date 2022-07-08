@@ -1,0 +1,24 @@
+20,24c20,24
+<     '.\\{name}.db',
+<     '.\\subreddits\\{name}\\{name}.db',
+<     '.\\{name}\\{name}.db',
+<     '.\\databases\\{name}.db',
+<     '.\\subreddits\\{name}\\{name}.db',
+---
+>     '{name}.db',
+>     'subreddits/{name}/{name}.db',
+>     '{name}/{name}.db',
+>     'databases/{name}.db',
+>     'subreddits/{name}/{name}.db',
+27,31c27,31
+<     '.\\@{name}.db',
+<     '.\\users\\@{name}\\@{name}.db',
+<     '.\\@{name}\\@{name}.db',
+<     '.\\databases\\@{name}.db',
+<     '.\\users\\@{name}\\@{name}.db',
+---
+>     '@{name}.db',
+>     'users/@{name}/@{name}.db',
+>     '@{name}/@{name}.db',
+>     'databases/@{name}.db',
+>     'users/@{name}/@{name}.db',
