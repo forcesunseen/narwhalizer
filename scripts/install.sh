@@ -4,7 +4,7 @@ mkdir data
 
 git clone https://github.com/voussoir/timesearch
 cd timesearch
-git checkout dfca0e9
+git checkout c8c160e
 cd ..
 
 python3 -m venv venv
